@@ -1,6 +1,6 @@
 {
   "name": "@gaddario98/react-firebase",
-  "version": "1.0.16",
+  "version": "1.0.18",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
